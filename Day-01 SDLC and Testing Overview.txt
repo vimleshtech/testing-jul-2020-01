@@ -1,0 +1,101 @@
+Overall Time: 
+		2 weeks - Manual Testing (ISQTB)
+		4 weeks - Programing fundamental (Java)
+		4 weeks - Automation Testing (Selenium)
+		2 weeks - Project Works
+
+Manual Testing (ISQTB)
+==============================================
+Today's Topics
+=====================
+- SDLC and Its' Phases
+- SRS & FRS(FR) & BRS(BR)
+- Level of Testing 
+- Agile Methodlogy 
+- Jira Tool 
+
+
+SDLC and Its' Phases
+==============================
+SDLC : Software development life cycle 
+There are following phases of life cycle 
+
+i. Requirement Gathering 		: by BA (Business Analysyst)
+		- Understanding of Current work or business needs
+		- Understanding of proposed system 
+		- Feasibility study 
+		- Estimation :
+			Tools and Technology
+			Resources(Hardware, software, human)
+			Timeline
+			Cost
+
+		- Documentations
+			- SRS: System requirement specification 
+				Architecture
+				Timeline
+				Objective				
+			- BR : Business requirement
+				Functionalities  
+			- FR : Funcational requirement
+				Usecase : where and how to use application 
+	
+ii. Design				: by Software Architect(Solution Architect/Principal Engineer)
+		- HLD (high level design) : Breakdown the applicaiton in modules 
+					Example: HDFC Banking
+						Modules: ATM Banking, Branch Banking, Mobile .....
+
+				
+		- LLD (low level design) : dependency between these modules, and every module functionalities 
+
+
+				
+			
+iii. Development			: by Developer 
+		- Write the source code to given requirement and develop the executable(runnable) product
+
+iv. Testing				: by QA(Quality Analyst), SQT (Software Quality Tesing), Test Engineer 
+	
+v. Release				: by DevOps Person (Server Owner or Administrator)
+
+
+Post Phase :
+
+vi. Maintainance 			: all above steps or phases will be repeated whenever new requiment will come
+
+	
+SRS & FRS(FR) & BRS(BR)
+============================================================
+SRS 
+FRS(FR)  
+BRS(BR)
+
+Level of Testing 
+======================================
+- Unit Testing				: by Developer
+- IT (integration Testing)		: by QA		
+- ST (system testing)			: QA
+- UAT (User Acceptence Testing)		: User, BA(Business Analyst)
+
+
+Agile Methodlogy 
+==================================
+Agile: is metholdy which is combination of incremental and iterative model 
+     : Agile is framework (set of rules and regulation)
+	- Scrum
+		Backlog:	is container of tasks/todos 
+		UserStory: 	every task is called userstory 
+		Sprint: 	 is timebox(2 weeks to 6 weeks) , in which we have to complete the task 
+		Ceremoney:	meetings 
+				- Backlog grooming
+				- Sprint planning
+				- Daily Standup or scrum call 
+				- Sprint Review/Restropective 
+		Velocity
+		Story Point 		
+	- Kanban
+	- Bug Tracking 
+
+	
+Attalisal: Jira Tool 
+=========================
